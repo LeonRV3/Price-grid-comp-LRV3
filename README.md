@@ -44,7 +44,7 @@ Mobile Version:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
--JavaScript Vanilla
+
 
 ## Author
 
